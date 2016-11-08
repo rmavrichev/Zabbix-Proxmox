@@ -1,7 +1,7 @@
-Zabbix - Proxmox/QM
+Zabbix - Proxmox/KVM
 ==============
 
-Zabbix Template for monitoring cpu(only qty)/memory/network/etc... of your Proxmox/QM Server  
+Zabbix Template for monitoring cpu(only qty)/memory/network/etc... of your Proxmox/KVM Server, using "qm" command for LLD and getting values.  
 This Template implements *low level discovery* to automatically discover all of your guest systems after you applied the template to a host
 
 
